@@ -9,7 +9,6 @@ This project analyzes the effectiveness of lockdown policies across different st
   - India: [GADM](https://gadm.org/) / OpenStreetMap extracts
   - Brazil: [IBGE](https://www.ibge.gov.br/en/) / OpenStreetMap extracts
   - USA: [Census Bureau Shapefiles](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
-- **Health Outcomes:** WHO & National Health Ministries.
 
 ## Visualizations
 - Heatmaps displaying containment health index by state for Brazil and India.
